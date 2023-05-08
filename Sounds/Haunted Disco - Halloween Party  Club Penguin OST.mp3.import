@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Haunted Disco - Halloween Party  Club Penguin OST.mp3-e468403fa0af6ac4c599063dc5ab5cef.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Haunted Disco - Halloween Party  Club Penguin OST.mp3"
+dest_files=[ "res://.import/Haunted Disco - Halloween Party  Club Penguin OST.mp3-e468403fa0af6ac4c599063dc5ab5cef.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
